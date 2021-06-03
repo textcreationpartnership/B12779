@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation signifying his Maiesties pleasure, to confirme by all meanes the estates of his subiects against all defects in their assurances, and all concealed titles.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12779</idno><idno type="EEBO-CITATION">99892499</idno>
+  <idno type="VID">187199</idno>
+  <idno type="EEBO-PROQUEST">2240916474</idno>
+  
+            <idno type="STC">STC 8432</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.10[103]</idno>
+            <idno type="PROQUEST">ocm99892499</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892499e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12779)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187199)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C7:1[103])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation signifying his Maiesties pleasure, to confirme by all meanes the estates of his subiects against all defects in their assurances, and all concealed titles.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno. 1609.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: White-hall the xxij. day of Aprill, in the seuenth yeere of our reigne ..</note>
+                  <note>Imprint from colophon.</note>
+                  <note>The first sheet is partly in two settings; line 1 of text has (1) "alvvayes" or (2) "alwayes". The second sheet is in two settings; line 1 of imprint ends (1) "Kings" or (2) "most".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Titles of honor and nobility --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term type="geographic_name">Nobility --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:187199:1"/>
+            <head>❧ By the King.</head>
+            <head type="sub">¶ A Proclamation signifying his Maiesties pleasure, to confirme by all meanes the estates of his Subiects against all defects in their Assurances, and all concealed Titles.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He Kings most Excellent Maiestie (hauing alwayes before his eyes a serious consideration of</hi> that great and weightie Charge which is committed to him for the gouernement of so many fa<g ref="char:EOLhyphen"/>mous Countreys and people, ouer whome the <hi>KING</hi> of Kings hath made him Supreme Head and Ruler, and doeth expect at his hands (out of duetie to his Diuine Maiestie) the same Care and feeling of all things concerning his Subiects, which the naturall head (by instinct of Na<g ref="char:EOLhyphen"/>ture) hath of the least member of the naturall body) is pleased now, aswell out of his long expe<g ref="char:EOLhyphen"/>rience of Regall Authoritie, exercised in another great and ancient Kingdome, before his com<g ref="char:EOLhyphen"/>ming to the Crowne of England, as out of the Rules of his owne Iustice and moderate dispositi<g ref="char:EOLhyphen"/>on in all things, to seeke to be enformed particularly and fully, Whether the courses that haue bene taken, or may here<g ref="char:EOLhyphen"/>after for enquirie or recouerie of his Maiesties rightfull Titles (cast vpon him by Law) may not more disturbe and endo<g ref="char:EOLhyphen"/>mage his good and louing Subiects, then stands with the iust measure of his owne desires; who esteemeth his greatest riches to be included in the treasurie of his Subiects hearts. In which respect, Although his Maiestie is not ignorant, that by the rule of Law no time can preiudice the Rights of the Kings of this Realme, but that contrarywise, the continu<g ref="char:EOLhyphen"/>ance of time is said in Law rather to increase, and aggrauate the wrong, then to extenuate or purge the same; And that in many cases betweene Subiect and Subiect (by common experience) ancient possessions are euicted and ouerthrowen by Titles more ancient: Yet such is his highnes Princely disposition, as he is willing to make them find, both the effects of his Bountie and Grace, and the due measure of his Integritie and Conscience. And therefore being enformed by his Maie<g ref="char:EOLhyphen"/>sties Commissioners and Officers, (employed aswell ordinarily, as extraordinarily, in the care of his Reuenues) That the possessions of his Subiects, haue, and doe dayly fall within the danger of Law (aswell concerning their Landes of Inheritance, as their Leases from his Maiestie or his Progenitors for liues or yeeres) by many wayes and meanes; Not onely vpon points of defect in Forme, but euen in points of Substance most iust and weightie; As in respect of exchanges with the Crowne, not duely conueyed or executed on the Subiects part; Of the falsitie of Considerations materiall, vpon which the Letters Patents haue bene obteined; Of the falsitie of Suggestions, whereby the King hath beene deceiued, and sometimes ancient Crowne Lands haue bene caried away, as if they had bene but new Augmentations of Reuenues by Attainder, or the like; Of Intayles made to the Kings of this Realme, or descended to them from their Ancesters, whereby it appeareth, that the King hath not bene truely enformed of his estate, when he made his grant, hauing no in<g ref="char:EOLhyphen"/>tention of disinherison of his Issue in Tayle, against the Lawe; Of referring to other Letters Patents, where many times there are none such, as by the recitall are supposed; Of insufficient sauing, or prouiding for that estate or benefite, which is intended to the King vpon the Letters Patents, by way of exception, Reseruation, or otherwise; Of want of proper and apt words, such as the Law doeth require, euen in a case betweene Subiect and Subiect; Of passing their Grants vnder a wrong Seale, contrary to the grounds of Law, or expresse Actes of Parliament; Of want of Offices, or insufficiencie of Offices, whereby the Kings Title not rightly appearing, his Grants could not but passe in darkenesse; And many other the like defects in matter and substance, besides the defects, errours, omissions, and misprisions in wri<g ref="char:EOLhyphen"/>ting and in forme, which are no lesse dangerous in strictnesse of Law: And his Maiestie being further enformed, That the possessions of his louing Subiects may also be impeached and brought in question vpon other Titles not hauing any dependance vpon defectiue Letters Patents, but vpon other points of diuerse natures, and yet all warranted by the Lawes of this Land; As vpon Escheats by Attaindors or otherwise, vpon Title accrued by Dissolution, Surrender, Suppression, or relinquishing of Monasteries, encrochements vpon his Maiesties Wastes and high Wayes, which is a meere vsurpation and intrusion vpon his Maiesties possession, not coloured by any pretence of Title; Vpon occupation of drowned lande by time recouered from the Sea, which by his Maiesties Prerogatiue belongeth to the Crowne; Vpon Tythes detained, which lie out of all Parishes; vpon Alienations in Mortmaine, purchases by Aliens, and the like; And lastly vpon condition broken for non payment of Rent at the dayes appointed, and other the like Actes not per<g ref="char:EOLhyphen"/>formed: His Maiestie conceiueth it to be a worke worthy of himselfe to settle (as much as in him is) at once, a peace and quietnesse in the possessions of his Subiects.</p>
+            <p>And as his Maiestie hath heretofore suspended the rigour of a Legall prosecution in these cases, and turned it into a graci<g ref="char:EOLhyphen"/>ous composition, vpon a summary consideration of the title, whereby both the charge of Sute, &amp; the extremity of Euiction
+<pb facs="tcp:187199:2"/>mought be auoided: So his Highnesse vnderstanding, that euen that course of fauour doth not answere or attaine (in some circumstances) to that measure of grace, which he intendeth to his louing Subiects; Is pleased, that there be a cessation also of that former proceeding. And therefore, although his Maiestie knowes, that no ordinary forme of Legall procee<g ref="char:EOLhyphen"/>ding, concludes the interest, nor time extinguisheth the right of Soueraigne Princes, that many Prerogatiues assist him, that the voyce of the Lawes interprets the best to be taken for him, and that he hath all aduantages, sauing a heart that will take no aduantage: And although the present necessity of his estate (whereof the splendor and greatnesse is so inlar<g ref="char:EOLhyphen"/>ged) may iustly perswade any lawfull Improuement of the profits of the Crowne; Yet it hath pleased him, as a pledge of greater fauour intended towards his Subiects, then euer they receiued from his Predecessors, (setting apart all other con<g ref="char:EOLhyphen"/>siderations of profit to himselfe, or power ouer his good Subiects in this kinde) by this Proclamation to declare, that he is fully resolued, that all his louing Subiects shall partake of this grace, to haue all the states of their Lands confirmed and made perfect, and to be discharged of all meane profits and Issues whatsoeuer heretofore due or Incurred, notwithstan<g ref="char:EOLhyphen"/>ding any the defects or imperfections before mentioned, or any other whatsoeuer; So as their estates be not by time expi<g ref="char:EOLhyphen"/>red and determined before, as in case of Intayles already spent and runne out: In which case the deteining of any Land from his Maiestie is so Iniurious, as no priuate man could willingly indure to be so defrauded. For which grace and fa<g ref="char:EOLhyphen"/>uour, as the Subiect shalbe no further charged for euer hereafter, then by payment of fiue yeeres Fine at the vttermost, ac<g ref="char:EOLhyphen"/>cording to the olde Rent, and the same to be Rated onely as it appeareth to be in value by former office, by particuler, or els by oath or <hi>affidauit,</hi> before some Commissioners without further examination thereof, or any maner of Discouery or decla<g ref="char:EOLhyphen"/>ration of any Imperfection or Inualidity of their titles in any of those things for which they made offer of Composition: So his Maiestie doth not doubt, but his discreete and louing Subiects (comparing all circumstances together, aswell considerable in his owne Person as theirs) with due acknowledgement and gratitude will imbrace this Fauour so graci<g ref="char:EOLhyphen"/>ously offered, and not to foreslow the time of acceptation of it, which his Maiestie doth hereby limitte to be before the ende of Michaelmas Terme next, seeing they and their poster tie may thereby be so well secured in their estates and Patrimo<g ref="char:EOLhyphen"/>nies for euer. For the perfect accomplishment of which his Maiesties gracious intention towards his louing Subiects, thus expressed by this declaration, his Highnesse is pleased by his Commission vnder the great Seale of England, to giue full and absolute power and authoritie to certaine selected Commissioners of his Maiesties priuie Counsell and others, to giue Order and Warrant for such Gifts, Graunts, Confirmations, and other Assurances to be made and passed vnder the great Seale of England, or Seale of the Duchie of Lancaster, or by Fines to be leuied, or by all or any other those wayes and meanes as shall be found needefull and requisite for the seuerall Cases, And as by the Counsaile learned of the parties that shall desire such Assurances respectiuely, vpon conference with his Maiesties learned Counsell shall be thought fitte and reasonable. And for their better and more absolute Assurance against all future doubts or questions whatsoeuer, his Maiestie doeth by these presents publish and declare, that he is so willing to Confirme and establish their Estates and Pos<g ref="char:EOLhyphen"/>sessions against all Claymes, Titles, and exceptions whatsoeuer, that he is pleased that it be propounded to the next Par<g ref="char:EOLhyphen"/>liament, That such Gifts, Graunts, Confirmations, and other assurances as shall bee made in performance and execu<g ref="char:EOLhyphen"/>tion of this his Princely intention, may be ratified and confirmed against Him, his Heires and Successors for euer, by au<g ref="char:EOLhyphen"/>thoritie of Parliament; And also to giue his Royall assent thereunto, when they shall be brought to that point: And doth likewise hereby promise to giue to any his louing Subiects (that shall seeke it) his Royall Couenant to be inserted into the bookes of their Assurances to the effect aforesayd. And for the ease of Charge to the Subiect in passing such their Assuran<g ref="char:EOLhyphen"/>ces; It hath pleased his Highnesse aswell to giue order that there shall be an abatement of the ordinary Fees payd at the Seales, as also to permit diuers persons to ioyne in one Patent, till their seuerall Purchases doe amount to Forty pounds according to the olde Rent, whereupon the Composition shallbe grounded. And because the sayd Commissioners being most of them of his Maiesties priuie Counsell, (and therefore ordinarily imployed in the greatest affaires of the Kingdome) shall not haue so fit meanes at all times to receiue and heare the first motions of his Maiesties Subiects, that shall desire such new Assurances as aforesayd; His Highnesse hath therefore appoynted his Atturney and Sollicitor generall, to be ready from time to time, to heare and conferre with his Subiects and their Counsell concerning the promisses, that they may be sure to receiue their dispatch with all possible expedition and fauour.</p>
+            <closer>
+               <dateline>Giuen at White-hall <date>the xxij. day of Aprill, in the seuenth yeere of our Reigne of great Britaine, France and Ireland.</date>
+               </dateline>
+               <lb/> God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by <hi>Robert Barker,</hi> Printer to the Kings most Excellent Maiestie. ANNO. 1609.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
